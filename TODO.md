@@ -1,0 +1,3 @@
+- [ ] Implement get_spiciest_foods function in lib/data_structures.py
+- [ ] Implement create_spicy_food function in lib/data_structures.py
+- [ ] Run pytest to verify all tests pass
